@@ -17,8 +17,8 @@
 
 | 프로젝트 | 설명 | 기술 |
 |---------|------|------|
-| [gst-securitys](https://github.com/90yard/gst-securitys) | Palo Alto 방화벽 웹 관리 도구 | Python, FastAPI, PAN-OS SDK |
-| [azure-security-architecure](https://github.com/90yard/azure-security-architecure) | Azure 보안 아키텍처 | Azure |
+| [paloalto-web-manager](https://github.com/90yard/paloalto-web-manager) | Palo Alto 방화벽 웹 관리 도구 | Python, FastAPI, PAN-OS SDK |
+| [azure-security-architecture](https://github.com/90yard/azure-security-architecture) | Azure 보안 아키텍처 | Azure |
 | [rpa-powershell](https://github.com/90yard/rpa-powershell) | PowerShell 기반 업무 자동화 | PowerShell, RPA |
 
 ---
